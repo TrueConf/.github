@@ -22,7 +22,7 @@ TrueConf Server Free offers the following features:
 
 Schedule meetings or escalate your chats into video conferences on the fly, create events with up to 2000 participants.
 
-![Local Image](./images/participants.png)
+<p align="center"><img src="./images/participants.png" width="600px"></p>
 
 Take full advantage of AI features:
 
@@ -35,7 +35,7 @@ Feel free to receive calls and participate in conferences on any device — chat
 
 Join online meetings on TrueConf Server Free using a browser and an invitation link.
 
-![Local Image](./images/multi_device.png)
+<p align="center"><img src="./images/multi_device.png" width="600px"></p>
 
 #### Corporate messenger
 
@@ -45,7 +45,7 @@ Use keyboard shortcuts and drag-and-drop for quick chat interaction. Besides, th
 
 Mention group chat participants to draw their attention to your message.
 
-![Local Image](./images/chats.png)
+<p align="center"><img src="./images/chats.png" height="400px"></p>
 
 #### Collaboration without borders
 
@@ -60,25 +60,21 @@ Ability to share different types of content:
 
 You can stream audio separately or while sharing any type of content.
 
-![Local Image](./images/tools.png)
-
 #### Share content in high quality
 
 Share content in 4K UltraHD during online meetings! Show high-definition CAD models, spreadsheets, and presentations created in third-party apps.
 
-![Local Image](./images/content.png)
+<p align="center"><img src="./images/content.png" width="600px"></p>
 
 #### Flexible conference management
 
 Manage devices and adjust participants’ layouts in two clicks depending on the meeting scenario.
 
-![Local Image](./images/layout.png)
-
 ### TrueConf Server workflow
 
 The following diagram shows how TrueConf Server interacts with other TrueConf solutions and third-party services (some integrations are not available in the Free version, more details are given below):
 
-![Local Image](./images/scheme.png)
+<p align="center"><img src="./images/scheme.png" width="1000px"></p>
 
 ### Comparison of TrueConf Server Free and TrueConf Server 
 
@@ -122,7 +118,7 @@ To install TrueConf Server on Windows:
 * When installation is complete, activate TrueConf Server with the registration key. The key will be sent to the email specified in the registration form.  
 * After successful registration, the server will start working and display the corresponding status in the control panel.
 
-![Local Image](./images/server_panel.png)
+<p align="center"><img src="./images/server_panel.png" height="500px"></p>
 
 ### Installation on other operating systems
 
